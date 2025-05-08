@@ -1,4 +1,4 @@
-🧠 # Fun LLM Infographics for All 😊
+# Fun LLM Infographics for All 😊
 
 This repository is a curated collection of visually engaging infographics that illustrate key technical concepts related to Large Language Models (LLMs). Each infographic is paired with a concise, 100-200 level technical description that makes complex AI topics accessible and easier to understand.
 
